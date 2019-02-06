@@ -1,7 +1,5 @@
 ---
 title: "Titanic Data Set - Survivor Predictor"
-author: "GiriPrasath V"
-date: "April 20, 2018"
 output: html_document
 ---
 
